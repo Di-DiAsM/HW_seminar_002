@@ -1,0 +1,15 @@
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\bin\Debug\net6.0\003_Проверить день недели на выходной.exe
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\bin\Debug\net6.0\003_Проверить день недели на выходной.deps.json
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\bin\Debug\net6.0\003_Проверить день недели на выходной.runtimeconfig.json
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\bin\Debug\net6.0\003_Проверить день недели на выходной.dll
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\bin\Debug\net6.0\003_Проверить день недели на выходной.pdb
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.csproj.AssemblyReference.cache
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.AssemblyInfoInputs.cache
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.AssemblyInfo.cs
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.csproj.CoreCompileInputs.cache
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.dll
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\refint\003_Проверить день недели на выходной.dll
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.pdb
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\003_Проверить день недели на выходной.genruntimeconfig.cache
+F:\GB\004. C# seminar\HW_seminar_002\003_Проверить день недели на выходной\obj\Debug\net6.0\ref\003_Проверить день недели на выходной.dll

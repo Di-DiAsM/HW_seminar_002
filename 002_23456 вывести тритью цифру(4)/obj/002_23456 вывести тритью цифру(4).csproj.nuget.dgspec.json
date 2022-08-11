@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\GB\\004. C# seminar\\HW_seminar_002\\002_23456 вывести тритью цифру(4)\\002_23456 вывести тритью цифру(4).csproj": {}
+  },
+  "projects": {
+    "F:\\GB\\004. C# seminar\\HW_seminar_002\\002_23456 вывести тритью цифру(4)\\002_23456 вывести тритью цифру(4).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GB\\004. C# seminar\\HW_seminar_002\\002_23456 вывести тритью цифру(4)\\002_23456 вывести тритью цифру(4).csproj",
+        "projectName": "002_23456 вывести тритью цифру(4)",
+        "projectPath": "F:\\GB\\004. C# seminar\\HW_seminar_002\\002_23456 вывести тритью цифру(4)\\002_23456 вывести тритью цифру(4).csproj",
+        "packagesPath": "H:\\Users\\Di\\.nuget\\packages\\",
+        "outputPath": "F:\\GB\\004. C# seminar\\HW_seminar_002\\002_23456 вывести тритью цифру(4)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "H:\\Users\\Di\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "H:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "H:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "H:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
